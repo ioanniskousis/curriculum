@@ -25,6 +25,7 @@ Submit a link below to [this file](https://github.com/TheOdinProject/curriculum/
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this line!
+* [John - Ioannis Kousis](https://rawcdn.githack.com/ioanniskousis/Newsweek/ed06e778ebfe06c9a9f164fa4cb8eebd24d5e242/index.html) - [View in Browser]
 * [Sebastian Gil's Solution](https://github.com/lBuggie/newsweek) - [View in Browser](https://rawcdn.githack.com/lBuggie/newsweek/e3056048ef59b0f7aa621cdabf0235fe2f16b7ca/index.html)
 * [Igorashs's Solution](https://github.com/igorashs/using-bootstrap) - [View in Browser](https://igorashs.github.io/using-bootstrap/)
 * [Ashish's Solution](https://github.com/CodersGas/bootstrap-project) - [View in Browser](https://codersgas.github.io/bootstrap-project/page.html)
